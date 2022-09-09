@@ -905,7 +905,7 @@ return
 								"expirationDate": "20220726"
 							},
 							"policyInfo": {
-								"policyStartDate": "20220909"
+								"policyStartDate": "20220910"
 							},
 							"policyCoverage": {
 								"ownHome": "No",
@@ -949,47 +949,12 @@ return
 						}
 					}
 					
-					// const medicarePingResult=await	fetch(`localhost:4000/medicare`, {
-					// 	method:'post',
-					// 	body: data
-					// })
-// 	  .then(response => response.text())
-// 	  .then(result => console.log(result))
-// 	  .catch(error => console.log('error', error));
-//   }
-	
-	
-// 	)
-//   .catch(error => console.log('error', error));
 					try {
-						const medicarePingResult=await axios.post(`http://localhost:4000/medicare`, data)
+						const medicarePingResult=await axios.post(`https://lilac-gopher-veil.cyclic.app/medicare`, data)
 						console.log("medicarePingResult",medicarePingResult.data)
 					} catch (error) {
 						console.log("error",error)
 					}
-					try {
-						const testMedicarePingResult=await axios.post(`http://datapass.quinstage.com/leads/auto/ping?quadTag=${quadTagValue}`, data, {
-							headers: {
-								'Content-Type': 'application/json',
-							}
-						})
-						console.log("testMedicarePingResult",testMedicarePingResult)
-					} catch (error) {
-						console.log("error",error)
-					}
-					//  .then(response => {
-					//  setTimeout(() => {
-					//   axios.post(`https://dry-dusk-82099.herokuapp.com/posting/post-jv-signup?ping_id=${response.data.ping_id}&${queryString1}`) .then(response => {
-					// 	// console.log(response.data,"post circle")
-					// 	alert(JSON.stringify( response.data))
-						 
-					// 	}
-					//   ).catch(error => console.log(error));
-					//  }, 1000);
-						
-						
-					// 	}
-					//   ).catch(error => console.log(error));
 				};
 		
 			return <Button   
