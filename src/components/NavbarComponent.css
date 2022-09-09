@@ -1,0 +1,23 @@
+.links {
+  font-style: bold !important;
+  text-decoration: none !important;
+}
+#offcanvasNavbar {
+  background-color: #000e31;
+  color: white;
+}
+/* #offcanvasNavbarLabel {
+  color: white !;
+} */
+.offcanvas-header .btn-close {
+  background-color: white;
+  /* color: white; */
+}
+@media (min-width: 600px) and (max-width: 1000px) {
+  /* .collapse {
+    display: none !important;
+  } */
+  .navbar-toggler {
+    display: none !important;
+  }
+}

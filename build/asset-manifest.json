@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1caf72a.chunk.css",
+    "main.js": "/static/js/main.2d032b55.chunk.js",
+    "main.js.map": "/static/js/main.2d032b55.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c80695a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c80695a9.js.map",
+    "static/css/2.2467b8ae.chunk.css": "/static/css/2.2467b8ae.chunk.css",
+    "static/js/2.847086b3.chunk.js": "/static/js/2.847086b3.chunk.js",
+    "static/js/2.847086b3.chunk.js.map": "/static/js/2.847086b3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2467b8ae.chunk.css.map": "/static/css/2.2467b8ae.chunk.css.map",
+    "static/css/main.f1caf72a.chunk.css.map": "/static/css/main.f1caf72a.chunk.css.map",
+    "static/js/2.847086b3.chunk.js.LICENSE.txt": "/static/js/2.847086b3.chunk.js.LICENSE.txt",
+    "static/media/GiecoLogo.e8c39878.png": "/static/media/GiecoLogo.e8c39878.png",
+    "static/media/ProgressiveLogo.8ee23b70.png": "/static/media/ProgressiveLogo.8ee23b70.png",
+    "static/media/StateFarmLogo.f98d181c.png": "/static/media/StateFarmLogo.f98d181c.png",
+    "static/media/blue-logo.32bdb8bd.PNG": "/static/media/blue-logo.32bdb8bd.PNG",
+    "static/media/car.05b6448f.png": "/static/media/car.05b6448f.png",
+    "static/media/contact-us-img.93acc9d9.jpg": "/static/media/contact-us-img.93acc9d9.jpg",
+    "static/media/firemanLogo.c42a74ce.png": "/static/media/firemanLogo.c42a74ce.png",
+    "static/media/insurance-home.102b26a7.jpg": "/static/media/insurance-home.102b26a7.jpg",
+    "static/media/libertyLogo.a23a3522.png": "/static/media/libertyLogo.a23a3522.png",
+    "static/media/noel.5126d19c.jpeg": "/static/media/noel.5126d19c.jpeg",
+    "static/media/nosherwan.3bb4f3c9.jpeg": "/static/media/nosherwan.3bb4f3c9.jpeg",
+    "static/media/index.css": "/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2",
+    "static/media/shahbaz.13d0dfc0.jpeg": "/static/media/shahbaz.13d0dfc0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c80695a9.js",
+    "static/css/2.2467b8ae.chunk.css",
+    "static/js/2.847086b3.chunk.js",
+    "static/css/main.f1caf72a.chunk.css",
+    "static/js/main.2d032b55.chunk.js"
+  ]
+}

@@ -1,0 +1,14 @@
+p {
+  margin-bottom: 1em;
+  color: #444;
+  font-size: 17px;
+}
+li {
+  color: #444;
+  font-size: 17px;
+}
+ol li {
+  color: #444;
+  font-weight: 700;
+  font-size: 17px;
+}
